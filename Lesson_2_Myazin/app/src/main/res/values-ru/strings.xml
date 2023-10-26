@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_2_Myazin</string>
+    <string name="poemText">
+        Я памятник себе воздвиг нерукотворный,
+        К нему не зарастет народная тропа,
+        Вознесся выше он главою непокорной
+        Александрийского столпа.
+    </string>
+</resources>
