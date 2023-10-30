@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lesson_3_Myazin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FFCD10</item>
+        <item name="colorPrimaryDark">#F5BF1F</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:textColorPrimary">#414141</item>
+        <item name="android:navigationBarColor">#414141</item>
+    </style>
+
+    <style name="Theme.Lesson_3_Myazin" parent="Base.Theme.Lesson_3_Myazin" />
+
+</resources>
